@@ -9,9 +9,9 @@ Sync Cloud Variables between each other
 settings.json should look something like this...
 ```json
 {
-  "proj1": "123456789"
-  "proj2": "987654321"
-  "var1": "exvar1"
+  "proj1": "123456789",
+  "proj2": "987654321",
+  "var1": "exvar1",
   "var2": "exvar2"
 }
 ```
